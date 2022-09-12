@@ -1,0 +1,13 @@
+Block Elements (takes up full part of screen from left to right; other elements will begin below it)
+    Headings (h1-h6)
+    List (ol - ul - li)
+    Tables (table - tr)
+    Containers (div)
+    Semanthic (header - main - section - article - footer - nav)
+    Videos (video)
+
+Inline Elements (will appear beside other elements if there is space)
+    Images (img)
+    Links (a)
+    Inside Form (input, label, button, select, text area)
+    Markup/Format (b - strong)
